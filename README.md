@@ -35,3 +35,5 @@ $ yarn start || yarn develop
 
 Licensed under the MIT License, Copyright © 2018 Marko Radak.  
 See [license](LICENSE) for more information.
+
+## End
